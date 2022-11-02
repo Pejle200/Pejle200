@@ -2,7 +2,7 @@
 - 👀 I’m interested in all
 - 🌱 I’m currently learning all
 - 💞️ I’m looking to collaborate on all
-- 📫 How to reach me ...
+- 📫 How to reach me pejle200@proton.me
 
 <!---
 Pejle200/Pejle200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
